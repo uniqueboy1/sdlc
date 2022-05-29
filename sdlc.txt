@@ -1,0 +1,38 @@
+
+Software Development Life Cycle :
+- it is the complete process of buliding a industury level software
+
+Process involve in SDLC :
+1. Planning and Requirements Analysis
+this process focuses on the following parameters
+
+- costs required to develop a software
+- team members with their responsibiliy
+- end user of the product
+- features of the product
+- product feasibility
+- and finally software requirement specification document is developed and SRS must be follwed throughout the development process
+
+2. Designing a solution :
+- now based on the customer requirements a solution is designed
+- here different approach is follwed and different solution is created
+- and finally the well optimized solution is choosen
+
+3. Coding
+- programming language is choosen according to the solution
+- and solution is implemented in coding using programming language
+
+4. Testing 
+- most important process
+- here different inputs is given to product and output is checked
+- if there is any bugs then it is fixed
+- now product is ready
+
+5. Deployment 
+- after product is ready it's first version is released
+- after the feedback of users then final version is released in the market
+
+6. Maintenance
+- unknown problem may arise while using the product so this is fixed
+- new features is added
+- checking of product whether it is working properly or not on the different platform
